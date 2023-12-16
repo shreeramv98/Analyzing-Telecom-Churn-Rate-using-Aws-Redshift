@@ -1,5 +1,7 @@
 # Analyzing-Telecom-Churn-Rate-using-Aws-Redshift
 
+KAGGLE DATASET: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 PAPER ABSTRACT:-
 
 Due to close rivalry and shifting consumer demands, telecom carriers struggle to keep their clients. Understanding the variables that cause customer turnover and creating tactics to keep them is accomplished through churn analysis. Using AWS Redshift, a cloud-based data warehousing solution that enables scalable and economical analysis of massive datasets, we provide a churn analysis approach in this research. In order to examine customer use trends, identify major churn predictors, and create a predictive churn model, we make use of Redshift's capacity to process enormous amounts of data rapidly and effectively. We also show how automating model training may increase the precision of the churn prediction model using Redshift's connection with AWS Machine Learning. Our findings indicate that suggested architecture may greatly increase churn forecast accuracy and offer telecom operators useful information for developing focused retention tactics. We think that this paradigm may be applied to other sectors and areas that need extensive data analysis and forecasting.
