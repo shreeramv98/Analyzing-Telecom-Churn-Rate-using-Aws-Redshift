@@ -1,6 +1,6 @@
 # Analyzing-Telecom-Churn-Rate-using-Aws-Redshift
 
-KAGGLE DATASET: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+KAGGLE DATASET:- https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 PAPER ABSTRACT:-
 
